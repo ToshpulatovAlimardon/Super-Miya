@@ -679,7 +679,13 @@ header .video_cours {
 /* Download button */
 #download-button {
     width: 100%;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
+}
+@media screen and (max-width: 500px) {
+    /* Download button */
+    #download-button {
+        font-size: 14px;
+    }
 }
