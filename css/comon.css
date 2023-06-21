@@ -679,7 +679,7 @@ header .video_cours {
 /* Download button */
 #download-button {
     width: 100%;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: bold;
 }
